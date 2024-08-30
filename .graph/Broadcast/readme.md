@@ -8,7 +8,7 @@ https://answers.microsoft.com/en-us/windows/forum/all/broadcast-option-has-disap
 
 >- https://www.onmsft.com/news/microsoft-quietly-removes-mixer-streaming-feature-from-windows-10-xbox-game-bar
 
->## So How can I broadcast on Windows 10?
+## So How can I broadcast on Windows 10?
 >
 >There are third party tools that are available. These are programs that you install onto your Windows 10 device and capture what is on your screen, broadcasting it to your chosen streaming provider (Mixer, Twitch, YouTube, etc...). The main one at the moment is:
 >
